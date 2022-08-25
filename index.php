@@ -180,7 +180,7 @@ include 'constants.php';
 
                             <div class="btn-bar">
 
-                                <a href="pro/signin.php" class="btn btn-custom theme_background_color">Make Reservations Now</a>
+                                <a href="pro/signin.php" class="btn btn-custom theme_background_color">Make Reservations Now!</a>
 
                             </div>
 
@@ -205,14 +205,9 @@ include 'constants.php';
 
                         <div class="main-heading-content col-md-12 col-sm-12 text-center">
 
-                            <h1 class="main-heading-title">XYZ Railway Co. Contact List</h1>
+                            <h1 class="main-heading-title">Metro Railway Contact List</h1>
 
-                            <p class="main-heading-text">The XYZ Railway Corporation is 112 years old and it runs a
-                                unilaterally designed track system of 1067mm cape gauge. Only 30km of its track
-                                distribution is in double track and that is within Lagos area.
-                                <br />The XYZ railway narrow gauge network is approximately 3,500 km long and is
-                                currently being extended by a narrow gauge line between ABC and the BCA - Port
-                                Harcourt line and a 275 km long standard gauge line between Ikakpe – Ajaokuta – Warri.
+                            <p class="main-heading-text">Currently runs in Dhaka,providing traffic free access to multiple locations.
                             </p>
 
                             <div class="btn-bar">
@@ -255,8 +250,7 @@ include 'constants.php';
 
                         <h3 class="title">ABOUT <span class="themecolor">US</span></h3>
 
-                        <p class="a-slog">Developed By <?php echo $developer_name; ?> (<?php echo $developer_matric; ?>)
-                            and Supervised By <?php echo $supervisor_name; ?></p>
+                        <p class="a-slog">Developed By 🤑</p>
 
                     </div>
 
