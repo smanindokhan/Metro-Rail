@@ -207,14 +207,14 @@ include 'constants.php';
 
                             <h1 class="main-heading-title">Metro Railway Contact List</h1>
 
-                            <p class="main-heading-text">Currently runs in Dhaka,providing traffic free access to multiple locations.
+                            <p class="main-heading-text">Currently runs in Dhaka, providing traffic free access to multiple locations.
                             </p>
 
                             <div class="btn-bar">
 
-                                <a href="system/" class="btn btn-custom theme_background_color">Get Started</a>
+                            <a href="pro/signin.php" class="btn btn-custom theme_background_color">Get Started</a>
 
-                                <a href="system/admin" class="btn btn-custom-outline">Admin</a>
+                                <a href="pro/adminsignin.php" class="btn btn-custom-outline">Admin</a>
 
                             </div>
 
