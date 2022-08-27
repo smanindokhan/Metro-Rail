@@ -1,6 +1,6 @@
 <?php
-$title = 'Online Ticket Reservation System';
+$title = 'Metro Rail Ticket Management System';
 //E-Ticketing System For Railway
-$supervisor_name = "Dr. A. O Ameen";
-$developer_name = "Adelabu Oluwatoyin Simbiat";
-$developer_matric = "16/52HA016";
+$supervisor_name = "Alabu";
+$developer_name = "Jani Na";
+$developer_matric = "Olubolu";
