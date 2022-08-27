@@ -128,7 +128,7 @@ include 'constants.php';
                                 <h3>About</h3>
                             </a></li>
 
-                        <li><a href="library/sample.pdf" class="page-scroll">
+                        <li><a href="library/map.png" class="page-scroll">
                                 <h3>Map</h3>
                             </a></li>
 
@@ -250,7 +250,7 @@ include 'constants.php';
 
                         <h3 class="title">ABOUT <span class="themecolor">US</span></h3>
 
-                        <p class="a-slog">Developed By 🤑</p>
+                        <p class="a-slog">Developed By bolbo naah</p>
 
                     </div>
 
@@ -288,7 +288,7 @@ include 'constants.php';
                             <h4>Train & Ticketing related information at your fingertips</h4>
 
                             <p class="black">Checkout available seats, route information, fare information on real time
-                                basis with Esheba Platform.</p>
+                                basis.</p>
 
                         </div> <!-- / margin -->
 
@@ -302,7 +302,7 @@ include 'constants.php';
 
                             <h4>Pay Securely</h4>
 
-                            <p class="black">Online payment. (NO REFUND!)</p>
+                            <p class="black">Online payment.(NO REFUND!)</p>
 
                         </div> <!-- / margin -->
 
