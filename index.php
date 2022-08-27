@@ -250,7 +250,7 @@ include 'constants.php';
 
                         <h3 class="title">ABOUT <span class="themecolor">US</span></h3>
 
-                        <p class="a-slog">Developed By bolbo naah</p>
+                        <p class="a-slog">Developed By Bolbo Naah</p>
 
                     </div>
 
