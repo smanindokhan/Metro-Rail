@@ -170,10 +170,10 @@ include 'constants.php';
                         <div class="main-heading-content col-md-12 col-sm-12 text-center">
 
                             <h1 class="main-heading-title"><span class="main-element themecolor"
-                                    data-elements=" Online Ticket, Online Ticket, Online Ticket"></span></h1>
+                                    data-elements=" Metro Rail, Metro Rail, Metro Rail"></span></h1>
 
                             <h1 class="main-heading-title"><span class="main-element themecolor"
-                                    data-elements=" Reservation System, Reservation System, Reservation System"></span>
+                                    data-elements=" Management System, Management System, Management System"></span>
                             </h1>
 
                             <p class="main-heading-text">WELCOME TO,<br />E - TICKETING FOR METRO RAIL</p>
