@@ -615,7 +615,7 @@ function printClearance($id)
 <style>
 table th{font-weight:italic}
 </style>
-<h1 style="text-align:center"><img src="images/trainlg.png" width="100" height="100"/><br/>ONLINE TICKET RESERVATION SYSTEM<br/> TRAIN TICKET</h1> <div style="text-align:right; font-family:courier;font-weight:bold"><font size="+6">Ticket N<u>o</u>: $uniqueCode </font></div>
+<h1 style="text-align:center"><img src="images/trainlg.png" width="100" height="100"/><br/>Metro Rail Management System<br/> TRAIN TICKET</h1> <div style="text-align:right; font-family:courier;font-weight:bold"><font size="+6">Ticket N<u>o</u>: $uniqueCode </font></div>
 <table width="100%" border="1">
 <tr><th colspan="2" style="text-align:center"><b>Personal Data</b></th></tr>
 <tr><th><b>Full Name:</b></th><td>$fullname</td></tr>
@@ -878,7 +878,7 @@ function printReport($id)
     // set text shadow effect
     $pdf->setTextShadow(array('enabled' => true, 'depth_w' => 0.2, 'depth_h' => 0.2, 'color' => array(196, 196, 196), 'opacity' => 1, 'blend_mode' => 'Normal'));
     // Set some content to print
-    $html = '<h5 style="text-align:center"><img src="images/trainlg.png" width="80" height="80"/><br/>Metro Rail Ticket Management SYSTEM<br/> LIST OF BOOKINGS  FOR ' . $date . ' (' . $time . ')</h5> <div style="text-align:right; font-family:courier;font-weight:bold"><font size="+1">Train ' . $train . ' (' . $sn . ' Passengers) : ' . $schedule . ' </font></div>' . $result;
+    $html = '<h5 style="text-align:center"><img src="images/trainlg.png" width="80" height="80"/><br/>Metro Rail Management System<br/> LIST OF BOOKINGS  FOR ' . $date . ' (' . $time . ')</h5> <div style="text-align:right; font-family:courier;font-weight:bold"><font size="+1">Train ' . $train . ' (' . $sn . ' Passengers) : ' . $schedule . ' </font></div>' . $result;
     // die($html);
     // Print text using writeHTMLCell()
     $pdf->writeHTMLCell(0, 0, '', '', $html, 0, 1, 0, true, '', true);
