@@ -15,14 +15,35 @@ if (!isset($file_access)) die("Direct File Access Denied");
                         <h5 class="m-0">Quick Tips</h5>
                     </div>
                     <div class="card-body">
-                        Use the links at the left.
-                        <br />You can see list of schedules by clicking on "New Booking". The system will display list
-                        of available schedules for you which you can view and make bookings from. <br>Before your
-                        bookings are saved, you are redirected to make payment. <br>After a successful payment, system
-                        generates your ticket ID for you which you are required to bring to the station. <br>You are
-                        allowed to view all your booking history by clicking on "View Bookings".
+                        Use the buttons at the left to access everything!                    
                     </div>
                 </div>
+              
+
+                <div class="card">
+                    <div class="card-body">
+                        You can see list of schedules by clicking on "New Booking". The system will display list
+                        of available schedules for you which you can view and make bookings from.
+                    </div>
+                </div>
+             
+                <div class="card">
+                    <div class="card-body">
+                        Before your bookings are saved, you are redirected to make payment.
+                    </div>
+                </div>
+             
+                <div class="card">
+                    <div class="card-body">
+                   After a successful payment, system generates your ticket ID for you which you are required to bring to the station.
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-body">
+                   Please use the 'Feedback' button to help us inprove or let us know of any issues!
+                    </div>
+                </div>
+            
             </div><?php
                     } else {
                         $class = $_POST['class'];
