@@ -128,7 +128,7 @@ include 'constants.php';
                                 <h3>About</h3>
                             </a></li>
 
-                        <li><a href="library/map.png" class="page-scroll">
+                        <li><a href="map.php" class="page-scroll">
                                 <h3>Map</h3>
                             </a></li>
 
