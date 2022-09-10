@@ -40,7 +40,7 @@ if (!isset($file_access)) die("Direct File Access Denied");
                 </div>
                 <div class="card">
                     <div class="card-body">
-                   Please use the 'Feedback' button to help us inprove or let us know of any issues!
+                   Please use the 'Feedback' button to help us improve or let us know of any issues!
                     </div>
                 </div>
             
